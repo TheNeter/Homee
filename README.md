@@ -1,2 +1,2 @@
 # Homee
-Ready to use barebone for WT32 SC01. Require Platform IO
+Ready to use starter Project for WT32 SC01 with lvgl 8.3.9. Require Platform IO
